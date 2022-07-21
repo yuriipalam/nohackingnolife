@@ -1,4 +1,4 @@
-## Hi there, my name is Yurii. I am a Jr. Penetration Tester.
+## Hi there, my name is Yurii. I am Jr. Penetration Tester
 
 ## Projects:
 <a href="https://github.com/nohackingnolife/Password-Manager">Password Manager</a>
