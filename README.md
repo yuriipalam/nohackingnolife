@@ -6,7 +6,7 @@
 
 ## Certifications:
 TryHackMe: Jr Penetration Tester Learning Path<br>
-Cisco Networking Academy:<br>
+Cisco Networking Academy:
 1) Cybersecurity Essentials<br>
 2) PC Hardware and Software<br>
 3) Networking Essentials<br>
