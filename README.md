@@ -5,9 +5,9 @@ Enjoy Python creating Web Applications, have experience with C++, C#
 
 ## Projects:
 <a href="https://github.com/nohackingnolife/Password-Manager">Password Manager (C++)</a><br>
-<a href="https://github.com/nohackingnolife/Telegram-Weather-Bot">Weather Telegram Bot (Python)</a><br>
-<a href="https://github.com/nohackingnolife/django4-todo-app">ToDo App (Python)</a><br>
-<a href="https://github.com/nohackingnolife/django4-vacation-management-app">Vacation Management App (Python)</a>
+<a href="https://github.com/nohackingnolife/Telegram-Weather-Bot">Weather Telegram Bot (Python, AIogram)</a><br>
+<a href="https://github.com/nohackingnolife/django4-todo-app">ToDo App (Python, Django)</a><br>
+<a href="https://github.com/nohackingnolife/django4-vacation-management-app">Vacation Management App (Python, Django)</a>
 
 ## Certifications:
 - TryHackMe Jr Penetration Tester Learning Path<br>
