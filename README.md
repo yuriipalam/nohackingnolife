@@ -1,6 +1,6 @@
 # Hi there, my name is Yurii Palamarchuk
 
-I'm a Software Developer, also interested in Penetration Testing. Enjoy Python creating Web Applications, have experience with C++, C#
+I'm a Software Developer, interested in Penetration Testing, as well. I enjoy Python, have experience with C++, C# and Flutter. Specialized in Web Development, Web Scraping and System Administration
 
 Currently pursuing bachelor's degree in Eötvös Loránd University (Budapest, Hungary 🇭🇺)
 
