@@ -1,13 +1,16 @@
 # Hi there, my name is Yurii Palamarchuk
 
-I'm a Software Developer, do Penetration Testing for fun.
+I'm a Software Developer, also interested in Penetration Testing.
 Enjoy Python creating Web Applications, have experience with C++, C#
+
+https://yuriipalamarchuk.com/
 
 ## Projects:
 <a href="https://github.com/nohackingnolife/Password-Manager">Password Manager (C++)</a><br>
 <a href="https://github.com/nohackingnolife/Telegram-Weather-Bot">Weather Telegram Bot (Python, AIogram)</a><br>
 <a href="https://github.com/nohackingnolife/django4-todo-app">ToDo App (Python, Django)</a><br>
 <a href="https://github.com/nohackingnolife/django4-vacation-management-app">Vacation Management App (Python, Django)</a>
+<a href="https://github.com/nohackingnolife/django4-portfolio">Portfolio</a>
 
 ## Certifications:
 - TryHackMe Jr Penetration Tester Learning Path<br>
