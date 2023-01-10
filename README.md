@@ -8,7 +8,7 @@ Portfolio: https://yuriipalamarchuk.com/
 
 ## Projects:
 <a href="https://github.com/nohackingnolife/Password-Manager">Password Manager (C++)</a><br>
-<a href="https://github.com/nohackingnolife/Telegram-Weather-Bot">Weather Telegram Bot (Python, AIogram)</a><br>
+<a href="https://github.com/nohackingnolife/Telegram-Weather-Bot">Weather Telegram Bot (Python, AIOGram)</a><br>
 <a href="https://github.com/nohackingnolife/django4-todo-app">ToDo App (Python, Django)</a><br>
 <a href="https://github.com/nohackingnolife/django4-vacation-management-app">Vacation Management App (Python, Django)</a><br>
 <a href="https://github.com/nohackingnolife/django4-portfolio">Portfolio (Python, Django)</a>
